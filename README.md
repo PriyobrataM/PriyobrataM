@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @PriyobrataM
-- 👀 I’m interested in Anime
-- 🌱 I’m currently learning HTML,CSS
+- 🌱 I’m currently learning Python
 
 <!---
 PriyobrataM/PriyobrataM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
