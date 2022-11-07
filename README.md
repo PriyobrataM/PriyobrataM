@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @PriyobrataM</h1>
-<h3 align="center">I'm enthusiastic towards Ml.</h3>
+<h3 align="center">Full stack web developer ⚒️  || ML enthusiast ✨ || Currently preparing to start competitive coding.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/996/0*JqSPrPfQ72m3wLNu.gif">
 <br>
 
