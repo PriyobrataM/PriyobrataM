@@ -1,9 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/tabbykatz/tabbykatz/master/wave.gif" width="30px">, I'm @PriyobrataM</h1>
 <h3 align="center">Full stack web developer || ML enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/996/0*JqSPrPfQ72m3wLNu.gif">
-<br>
-<br>
-<br>
 
 - 🌱 I’m currently learning **DSA**
 
