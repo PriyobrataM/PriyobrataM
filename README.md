@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @PriyobrataM</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/tabbykatz/tabbykatz/master/wave.gif" width="30px">, I'm @PriyobrataM</h1>
 <h3 align="center">Full stack web developer ⚒️  || ML enthusiast ✨ || Currently preparing to start competitive coding.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/996/0*JqSPrPfQ72m3wLNu.gif">
 <br>
@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **i have no friends**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Cometitive coding:</h3>
 <p align="left">
 <a href="https://kaggle.com/priyobratamukherjree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyobratamukherjree" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/priyobrata_edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyobrata_edu" height="30" width="40" /></a>
