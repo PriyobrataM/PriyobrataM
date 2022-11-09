@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/tabbykatz/tabbykatz/master/wave.gif" width="30px">, I'm @PriyobrataM</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/tabbykatz/tabbykatz/master/wave.gif" width="30px">, I'm @PriyobrataM</h1>
 <h3>• Introduction <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" width="18px"></h1>
 <h4>Besides being a high school student I am an enthusiastic & ambitious full-stack web developer. On a daily basis I improve my programming logic & problem solving approach through competive coding platforms.</h4>
 <hr>
